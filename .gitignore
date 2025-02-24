@@ -1,0 +1,16 @@
+# Ignorer les fichiers de configuration spécifiques à l'environnement
+.env
+
+# Kaggle datasets
+*.csv
+*.zip
+
+# Python dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
